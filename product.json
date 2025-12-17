@@ -1,4 +1,5 @@
 {
+  "title" : "All Service and Products",
   "products": [
     {
       "id": 1,
@@ -15,5 +16,6 @@
       "name": "watch",
       "price": 1200
     }
-  ]
+  ],
+  "services" : [ "Web Development" , "Agentic AI" , "Python" ]
 }
